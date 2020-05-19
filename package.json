@@ -1,0 +1,11 @@
+{
+  "name": "nginx_kadai",
+  "private": true,
+  "dependencies": {},
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": "12.14.x"
+  }
+}
